@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\hotel\hotel\bin\Debug\hotel.exe.config
+C:\Users\User\Documents\C#\hotel\hotel\bin\Debug\hotel.exe
+C:\Users\User\Documents\C#\hotel\hotel\bin\Debug\hotel.pdb
+C:\Users\User\Documents\C#\hotel\hotel\obj\Debug\hotel.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\hotel\hotel\obj\Debug\hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\hotel\hotel\obj\Debug\hotel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\hotel\hotel\obj\Debug\hotel.exe
+C:\Users\User\Documents\C#\hotel\hotel\obj\Debug\hotel.pdb
